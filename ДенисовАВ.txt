@@ -1,0 +1,35 @@
+commit 122fb9444d1f3693f3539e05d1f40a6820adcdad
+Author: samb1232 <arterm212@gmail.com>
+Date:   Fri Feb 13 21:39:33 2026 +0500
+
+    added prerelease
+
+commit a04de2d7125f277c80bcecee0cc7121fb0ad9440
+Author: samb1232 <arterm212@gmail.com>
+Date:   Fri Feb 13 21:35:38 2026 +0500
+
+    updated gitignore
+
+commit b815924d5c6e845d1424903945973cb8936c59eb
+Author: samb1232 <arterm212@gmail.com>
+Date:   Fri Feb 13 21:32:03 2026 +0500
+
+    added gitignore
+
+commit e41754f10a297f4d7f5fb978c43a1a0a326c5ebe
+Author: samb1232 <arterm212@gmail.com>
+Date:   Fri Feb 13 21:18:36 2026 +0500
+
+    added grade and more changes
+
+commit 69a729850d8caf8eda9ae6208e0c494cb051be53
+Author: samb1232 <arterm212@gmail.com>
+Date:   Fri Feb 13 21:15:46 2026 +0500
+
+    Added readme
+
+commit 737a3a68022b29ea3c1ac781b99ab7be96195d77
+Author: samb1232 <arterm212@gmail.com>
+Date:   Fri Feb 13 21:11:22 2026 +0500
+
+    Added Hello world
